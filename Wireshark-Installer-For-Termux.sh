@@ -6,4 +6,6 @@ apt install tigervnc wireshark-gtk -y
 
 vncserver
 export DISPLAY=":1"
+echo "Connect this IP address by VNC Viewer: 127.0.0.1:5901"
+
 wireshark-gtk
