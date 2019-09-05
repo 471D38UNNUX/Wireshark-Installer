@@ -16,7 +16,7 @@ $git clone https://github.com/471D38UNNUX/Wireshark-Installer
 
 $cd Wireshark-Installer
 
-$bash Wireshark-For-Termux.sh
+$bash Wireshark-Installer-For-Termux.sh
 
 For linux installation:
 
