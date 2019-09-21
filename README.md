@@ -30,7 +30,7 @@ For original version:
 
 #cd Linux
 
-#bash Wireshark-Installer-For-Linux-Based-On-Debian.sh
+#bash Wireshark-Installer-For-Linux-Based-On-(Debian/Red-Hat).sh
 
 For start Wireshark.
 
