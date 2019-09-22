@@ -22,7 +22,7 @@ For linux installation:
 
 For original version:
 
-#sudo apt install git
+#sudo (apt/yum/zypper) install git
 
 #git clone https://github.com/471D38UNNUX/Wireshark-Installer
 
