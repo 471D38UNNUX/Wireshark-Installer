@@ -36,7 +36,7 @@ For original version:
 
 #cd Linux
 
-#bash Wireshark-Installer-For-Linux-Based-On-(Debian/Red-Hat).sh
+#bash Wireshark-Installer-For-(your linux based).sh
 
 For start Wireshark.
 
@@ -46,8 +46,6 @@ For start Wireshark.
 
 For WSL version:
 
-If you want Wireshark GUI version, you must install and open desktop environment first in this link: https://github.com/471D38UNNUX/Desktop-Environment-Installer
-
 #sudo (apt/zypper) install git
 
 #git clone https://github.com/471D38UNNUX/Wireshark-Installer
@@ -56,7 +54,7 @@ If you want Wireshark GUI version, you must install and open desktop environment
 
 #cd Linux
 
-#bash Wireshark-Installer-For-Linux-Based-On-Debian.sh
+#bash Wireshark-Installer-For-(your linux based).sh
 
 For start Wireshark.
 
