@@ -18,11 +18,17 @@ $cd Wireshark-Installer
 
 $bash Wireshark-Installer-For-Termux.sh
 
+For start Wireshark.
+
+$wireshark-gtk (GUI version)
+
+$tshark -h (CLI version)
+
 For linux installation:
 
 For original version:
 
-#sudo (apt/yum/zypper) install git
+#sudo (apt/yum/zypper install/pacman -S) git
 
 #git clone https://github.com/471D38UNNUX/Wireshark-Installer
 
@@ -34,11 +40,13 @@ For original version:
 
 For start Wireshark.
 
-#wireshark
+#wireshark-gtk (GUI version)
+
+#tshark -h (CLI version)
 
 For WSL version:
 
-Install and open desktop environment first in this link: https://github.com/471D38UNNUX/Desktop-Environment-Installer
+If you want Wireshark GUI version, you must install and open desktop environment first in this link: https://github.com/471D38UNNUX/Desktop-Environment-Installer
 
 #sudo (apt/zypper) install git
 
@@ -52,7 +60,9 @@ Install and open desktop environment first in this link: https://github.com/471D
 
 For start Wireshark.
 
-#wireshark
+#wireshark-gtk (GUI version)
+
+#tshark -h (CLI version)
 
 Enjoy.
 
