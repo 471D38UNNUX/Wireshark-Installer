@@ -4,9 +4,9 @@
 
 Author: The Wireshark Team
 
-For termux installation:
+If you want Wireshark GUI version, you must install and open desktop environment first in this link: https://github.com/471D38UNNUX/Desktop-Environment-Installer
 
-Install and open desktop environment first in this link: https://github.com/471D38UNNUX/Desktop-Environment-Installer
+For termux installation:
 
 Run this script in terminal not termux:
 
@@ -40,7 +40,7 @@ For WSL version:
 
 Install and open desktop environment first in this link: https://github.com/471D38UNNUX/Desktop-Environment-Installer
 
-#sudo apt install git
+#sudo (apt/zypper) install git
 
 #git clone https://github.com/471D38UNNUX/Wireshark-Installer
 
