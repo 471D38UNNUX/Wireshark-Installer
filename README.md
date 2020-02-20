@@ -18,11 +18,15 @@ $cd Wireshark-Installer
 
 $bash Wireshark-Installer-For-Termux.sh
 
+$tsu
+
 For start Wireshark.
 
-$wireshark-gtk (GUI version)
+#wireshark-gtk (GUI version)
 
-$tshark -h (CLI version)
+#tshark -h (CLI version)
+
+Nb: Rooted phone is required
 
 For linux installation:
 
