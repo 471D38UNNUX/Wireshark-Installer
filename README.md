@@ -32,7 +32,13 @@ For linux installation:
 
 For original version:
 
-#sudo (apt/yum/zypper install/pacman -S) git
+#sudo apt install git -y (for Linux based on Debian)
+
+#sudo yum install git -y (for Linux based on Red Hat)
+
+#sudo zypper install git (for Linux based on SUSE)
+
+#sudo  pacman -S git (for Linux based on Arch)
 
 #git clone https://github.com/471D38UNNUX/Wireshark-Installer
 
@@ -67,6 +73,8 @@ For start Wireshark.
 #tshark -h (CLI version)
 
 Enjoy.
+
+Nb: Linux WSL 1 version isn't support
 
 ![](1024px-Wireshark_icon.svg.png)
 
