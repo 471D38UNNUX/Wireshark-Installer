@@ -56,7 +56,9 @@ For start Wireshark.
 
 For WSL version:
 
-#sudo (apt/zypper) install git
+#sudo apt install git -y (for Linux based on Debian)
+
+#sudo apt zypper install git (for Linux based on SUSE)
 
 #git clone https://github.com/471D38UNNUX/Wireshark-Installer
 
